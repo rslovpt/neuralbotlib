@@ -1,0 +1,12 @@
+{
+   "GREETING": [
+      ["Hi", "Hello", "Hey"],
+      ["GREETING", "STARTUP"],
+      0.8
+   ],
+   "FAREWELL": [
+      ["Goodbye", "Later", "Bye"],
+      ["FAREWELL", "STARTUP", "ENDUP"],
+      0.8
+   ]
+}
